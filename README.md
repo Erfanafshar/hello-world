@@ -2,4 +2,4 @@
 this is the first github repository
 
 I am erf 
-an like java 
+and like java 
